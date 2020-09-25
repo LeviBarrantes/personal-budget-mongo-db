@@ -6,6 +6,15 @@ body {
     font-size: 10px;
     font-family: Tahoma, Arial;
 }
+/*Css for the skip of content A11y change*/
+.skip-nav{
+   position: absolute;
+   top: 0;
+   left: 0;
+   text-decoration:none ;
+   transform: translateY(-100%);   
+}
+/*----------------------------------------*/
 
 nav.menu {
     width: 100%;
