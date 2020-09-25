@@ -8,11 +8,17 @@ body {
 }
 /*Css for the skip of content A11y change*/
 .skip-nav{
+
    position: absolute;
    top: 0;
    left: 0;
+   padding: var(--spacing-unit-small);
+   color:var(--button-color);
    text-decoration:none ;
    transform: translateY(-100%);   
+}
+.skip-nav:focus{
+    transform: none;
 }
 /*----------------------------------------*/
 
