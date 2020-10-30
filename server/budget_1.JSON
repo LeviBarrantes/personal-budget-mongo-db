@@ -2,31 +2,41 @@
      "myBudget": [
        {
          "title": "Eat out",
-         "budget": 25
+         "budget": 25,
+		 "color":  "#ffcd56"
+		 
        },
        {
            "title": "Rent",
-           "budget": 375
+           "budget": 375,
+		   "color":  "#ff6384"
         },
      {
             "title": "Grocery",
-        "budget": 110
+        "budget": 110,
+		"color":  "#36a2eb"
         },
         {
           "title": "gas",
-      "budget": 150
+      "budget": 150,
+	  "color":  "#fd6b19"
       },
       {
         "title": "hair cut",
-    "budget": 20
+    "budget": 20,
+	"color":  "#00FFFF"
     },
     {
       "title": "Netflix",
-  "budget": 18
+  "budget": 30,
+  "color":  "#008000"
   },
   {
     "title": "Car Wash",
-"budget": 40
+"budget": 80,
+"color":  "#CD5C5C"
 }
     ]
      }
+	 
+	 
